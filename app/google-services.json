@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "383704728716",
+    "project_id": "catchy-b8cec",
+    "storage_bucket": "catchy-b8cec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383704728716:android:cea982e03e68fbbfafa7a9",
+        "android_client_info": {
+          "package_name": "com.example.catchy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383704728716-lmfq6i05roho2952bgaeaveu5u0p73ib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.catchy",
+            "certificate_hash": "0f9d28f5f021188d4404a1390a5aa93c025b60f3"
+          }
+        },
+        {
+          "client_id": "383704728716-hnf75f17u06j42c487f4637t8031ptpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADaaNrA4oeDnRFp_yuCcAZ9RgbT8-mQBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383704728716-hnf75f17u06j42c487f4637t8031ptpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
